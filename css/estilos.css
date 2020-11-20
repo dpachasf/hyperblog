@@ -4,6 +4,24 @@ body
     text-align: center;
     font-family: "Arial";
 }
+
+#cabecera
+{
+    background: lightgreen;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+
 #container
 {
     width: 70%;
